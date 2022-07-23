@@ -43,4 +43,5 @@ int main() {
 	}
 	ans += ((letters * (letters + 1)) / 2);
 	cout << ans << '\n';
+	return 0;
 }
